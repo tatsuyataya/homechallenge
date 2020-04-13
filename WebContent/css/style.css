@@ -1,6 +1,7 @@
 @CHARSET "UTF-8";
 
 body {
+	background: #fafcc7;
     color: #333333;
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
 }
@@ -121,7 +122,9 @@ tr.row0 {
         background-color: #fed3fd;
 }
 
-
+.koumoku{
+	background-color: #eeeeee;
+}
 
 #footer {
 	text-align: center;
@@ -175,6 +178,7 @@ tr.row0 {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   width: 700px;
   margin: 0 auto;
+  
   }
 
 .tab_item {
@@ -205,6 +209,7 @@ input[name="tab_item"] {
   padding: 40px 40px ;
   clear: both;
   overflow: hidden;
+  background: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%);    /* 背景色指定 */
 }
 
 #followerlist:checked ~ #followerlist_content,

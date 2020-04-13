@@ -14,7 +14,7 @@
 		会員登録してアカウントを作成すれば、自分が考えた遊びや趣味を書くこともでき、他のユーザーの記事にいいねしたり、お気に入りのユーザーのフォローもできます。
 		<table>
             <tbody>
-                <tr>
+                <tr class="koumoku">
                     <th class="postfirst">タイトル</th>
                     <th class="postfirst">投稿者</th>
                     <th class="postfirst">年代、性別</th>

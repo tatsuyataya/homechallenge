@@ -31,7 +31,7 @@
 		<h3>いいね</h3>
 		<table class="post_list">
             <tbody>
-                <tr>
+                <tr class="koumoku">
                     <th class="post_title">タイトル</th>
                     <th class="post_name">投稿者</th>
                     <th class="post_age_gender">年代、性別</th>
